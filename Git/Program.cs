@@ -7,6 +7,9 @@ namespace Git
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Первый коммит!");
+            Console.WriteLine("Второй коммит!");
+            Console.WriteLine();
         }
     }
 }
