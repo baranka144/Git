@@ -4,6 +4,11 @@ namespace Git
 {
     class Program
     {
+        static void myFunc()
+        {
+            Console.WriteLine("Awesome function");
+        }
+
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
