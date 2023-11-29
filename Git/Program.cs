@@ -7,7 +7,7 @@ namespace Git
         //Авторы Горшков Заидов
         static void myFunc()
         {
-            Console.WriteLine("Awesome function");
+            Console.WriteLine("Awful function");
         }
 
         static void Main(string[] args)
