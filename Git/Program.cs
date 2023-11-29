@@ -14,6 +14,7 @@ namespace Git
             Console.WriteLine("Hello World!");
             Console.WriteLine("Настоящий второй коммит коммит!");
             Console.WriteLine("Изменения из Git!");
+            Console.WriteLine(1);
         }
     }
 }
