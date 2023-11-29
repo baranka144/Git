@@ -4,6 +4,7 @@ namespace Git
 {
     class Program
     {
+        //Авторы Горшков Заидов
         static void myFunc()
         {
             Console.WriteLine("Awesome function");
